@@ -29,3 +29,5 @@ Fatigue and drowsiness are major causes of road accidents worldwide. This projec
 - Playsound / Pygame for alarm
 
 ---
+
+Download shape_predictor_68_face_landmarks file at: https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat
